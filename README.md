@@ -5,8 +5,8 @@ Repositório criado para documentar os primeiros passos no Git e GitHub em 2026.
 ---
 
 ### 🛠️ 1. Configuração de Identidade
-* `git config --global user.name "DayanadoValle"`
-* `git config --global user.email "isaque.dayana@gmail.com"`
+* `git config --global user.name "SeuNome"`
+* `git config --global user.email "seuEmail"`
 
 ### 📁 2. Criando o Repositório Local
 ```bash
