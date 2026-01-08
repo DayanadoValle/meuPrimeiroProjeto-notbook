@@ -12,6 +12,6 @@ Configura quem é você no Git:
 ### 📁 2. Criando o Repositório Local
 Comandos para criar a pasta e preparar o Git:
 ```bash
-mkdir meuPrimeiroProjeto-notbook   # Cria a pasta
-cd meuPrimeiroProjeto-notbook      # Entra na pasta
+mkdir nome-do-projeto   # Cria a pasta
+cd nome-do-projeo      # Entra na pasta
 git init                           # Transforma em repositório
