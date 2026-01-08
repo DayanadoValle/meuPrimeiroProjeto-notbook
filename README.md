@@ -14,4 +14,4 @@ Comandos para criar a pasta e preparar o Git:
 ```bash
 mkdir nome-do-projeto   # Cria a pasta
 cd nome-do-projeo      # Entra na pasta
-git init                           # Transforma em repositório
+git init                          # Transforma em repositório
