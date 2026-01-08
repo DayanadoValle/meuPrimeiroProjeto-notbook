@@ -17,7 +17,7 @@ git init
 
 ### 🔗 3. Conectando ao GitHub
 ```bash
-git remote add origin github.com
+git remote add origin github.com/seuRepositorioRemoto
 git remote -v
 ```
 
