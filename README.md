@@ -1,6 +1,6 @@
 # 🚀 Guia de Comandos Git - Passo a Passo
 
-Repositório criado para documentar os primeiros passos no Git e GitHub em 2026.
+Repositório Git e GitHub em 2026.
 
 ---
 
